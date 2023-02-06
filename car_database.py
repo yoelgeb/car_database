@@ -1,0 +1,1 @@
+SQLITE_CONNECTION_STRING = "sqlite+pysqlite:///car_sales.db"
